@@ -9,7 +9,7 @@ Spring Security
 
 Hibernate
 
-Highcart
+Highchart
 
 EMail confirmation
 
