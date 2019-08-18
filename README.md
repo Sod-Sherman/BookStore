@@ -1,4 +1,8 @@
 # SWEProject
-Software Engineering Project MUM
-The project is eShopping for books or something?
+Software Engineering Project at MUM.edu
+The project is eShopping for books?
+Spring Boot
+Spring Security
+Hibernate
+Highcart
 
