@@ -1,8 +1,18 @@
 # SWEProject
 Software Engineering Project at MUM.edu
+
 The project is eShopping for books?
+
 Spring Boot
+
 Spring Security
+
 Hibernate
+
 Highcart
+
+EMail confirmation
+
+Password complexity
+
 
